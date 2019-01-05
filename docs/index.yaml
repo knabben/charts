@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  terminator:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-01-05T14:39:08.742328-02:00
+    description: The terminator chart
+    digest: 9f9438769e2bca3acd0f43d9f3f5d4c70ae67b11546f14e918941701471cb3cf
+    name: terminator
+    urls:
+    - https://knabben.github.io/charts/terminator-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-01-05T14:39:08.737115-02:00
