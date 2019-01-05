@@ -1,0 +1,13 @@
+# Default values for terminator.
+replicaCount: 1
+image:
+  repository: knabben/ops
+  tag: latest
+  pullPolicy: Always
+
+nameOverride: ""
+fullnameOverride: ""
+resources: {}
+nodeSelector: {}
+tolerations: []
+affinity: {}
